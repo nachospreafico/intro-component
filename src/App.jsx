@@ -7,7 +7,7 @@ function App() {
   return (
     <main
       style={{ backgroundImage: `url(${MobileBg})` }}
-      className="relative h-full  w-screen bg-[#FF7979] sm:px-[50px]  lg:px-[110px] py-16 md:grid md:grid-cols-2 flex flex-col gap-[64px]"
+      className="relative h-full lg:h-screen  w-screen bg-[#FF7979] sm:px-[50px]  lg:px-[110px] py-16 md:grid md:grid-cols-2 flex flex-col gap-[64px]"
     >
       {/* Background img */}
 
